@@ -28,7 +28,7 @@ En la segunda mitad hemos visto una (muy) breve introducción a Python en la que
 
 Y, "como siempre ha sido", hemos terminado creando un script con el que jugar al juego popularizado por The Big Bang Theory  ***Rock, Paper, Scissors, Lizard, Spock***. En el archivo .ipynb se añade un ejemplo con un par de funciones más para seguir jugando sin tener que volver a ejecutar la celda. También se ha añadido la opción de sustituir los condicionales por un diccionario (+ pythonic).
 
-[Enlace al notebook completo del día 1](https://github.com/Digdgeo/AEPython/blob/main/Dia1/Day1_Completo.ipynb)
+[Enlace al notebook completo del día 1](https://github.com/Digdgeo/AEPython_2024/blob/main/D%C3%ADa%201/Day1_Completo.ipynb)
 
 
 ![](https://i.imgur.com/IZD1dlL.png)
@@ -54,6 +54,6 @@ La idea es seguir con el análisis vectorial con Fiona y ver dos scripts más co
 
 Si hay tiempo veremos la intro a Numpy y a Rasterio antes de dedicar el día de mañana a las clases para trabajar con imágenes satélites.
 
-[Notebook dia 3](https://github.com/Digdgeo/AEPython_2024/blob/main/D%C3%ADa3/Dia_3_2024.ipynb)
+[Notebook dia 3](https://github.com/Digdgeo/AEPython_2024/blob/main/D%C3%ADa3/Dia_3_vectorial_fiona.ipynb)
 
 ![](https://i.imgur.com/Xohn1H2.png)
