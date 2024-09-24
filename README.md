@@ -43,9 +43,9 @@ También hemos visto como trabajar con shapefiles desde Geopandas (aspect=1 :())
 
 Notebooks:
 
-[Python Classes](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%202/Python_Clasess.ipynb)
+[Python Classes](https://github.com/Digdgeo/AEPython_2024/blob/main/D%C3%ADa2/Python_Clasess.ipynb)
 
-[Vectorial](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%202/Clase_Landsat.ipynb)
+[Vectorial](https://github.com/Digdgeo/AEPython_2024/blob/main/D%C3%ADa2/Dia_2_Vectorial.ipynb)
 
 ![](https://i.imgur.com/BxfFDfd.jpg)
 
