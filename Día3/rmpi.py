@@ -6,7 +6,7 @@ from shapely.geometry import mapping, shape, Point, Polygon
 from fiona.crs import from_epsg
 
 
-class alessandro(object):
+class alessandro:
     '''clase para calcular los centroides de un cluster de puntos, moverlos dentro de un marco y girarlos sobre el
     centroide... Vamos, lo que viene a ser un currazo de la hostia.'''
 
