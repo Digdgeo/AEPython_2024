@@ -43,10 +43,8 @@ También hemos visto como trabajar con shapefiles desde Geopandas (aspect=1 :())
 
 Notebooks:
 
-[Python Classes](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%202/Python_Clasess.ipynb)   
-[Clase Landsat](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%202/Clase_Landsat.ipynb)     
-[Numpy Arrays](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%202/Intro_to_Numpy_Arrays.ipynb)     
-[Introducción a Rasterio](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%202/Intro_to_Rasterio.ipynb)   
+[Python Classes](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%202/Python_Clasess.ipynb)
+[Vectorial](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%202/Clase_Landsat.ipynb)
 
 ![](https://i.imgur.com/BxfFDfd.jpg)
 
@@ -56,6 +54,6 @@ La idea es seguir con el análisis vectorial con Fiona y ver dos scripts más co
 
 Si hay tiempo veremos la intro a Numpy y a Rasterio antes de dedicar el día de mañana a las clases para trabajar con imágenes satélites.
 
-[Enlace al notebook con la clase Landsat completa](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%203/Clase%20Landsat_completa.ipynb))
+[Notebook dia 3](https://github.com/Digdgeo/AEPython_2024/blob/main/D%C3%ADa3/Dia_3_2024.ipynb)
 
-![](https://i.imgur.com/qg9QHlN.png)
+![](https://i.imgur.com/Xohn1H2.png)
