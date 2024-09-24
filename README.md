@@ -1,15 +1,14 @@
 # AEPython
 
-Repositorio para el contenido del curso de Análisis Espacial con Python del Gabinete de Fromación del CSIC (Estación Biológica de Doñana, Sevilla. 12-16/06/2023).
+Repositorio para el contenido del curso de **Análisis Espacial con Python** del Gabinete de Formación del CSIC (Estación Biológica de Doñana, Sevilla. 23-27/09/2024).
 
-**Temario**:
+### Temario
 
 ## Día 1: Introducción al entorno Jupyter (Colab) y a Python
 
 Hemos trabajado sobre todo en Google Colab. La conclusión más clara es que la IA cambia todo o casi todo y la integración de Gemini con los notebooks funciona perfectamente (demasiado bien...).
 
 En la segunda mitad hemos visto una (muy) breve introducción a Python en la que hemos visto los tipos de datos principales:  
-
 
 * Creación de variables
 * Strings
@@ -31,9 +30,7 @@ Y, "como siempre ha sido", hemos terminado creando un script con el que jugar al
 
 [Notebook día 1. Intro Python](https://github.com/Digdgeo/AEPython_2024/blob/main/D%C3%ADa%201/Day1_Completo.ipynb)
 
-
 ![](https://i.imgur.com/IZD1dlL.png)
-
 
 ## Día 2: Intro a Teledetección y Análisis Vectorial
 
