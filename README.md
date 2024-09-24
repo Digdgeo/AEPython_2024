@@ -53,4 +53,4 @@ Si hay tiempo veremos la intro a Numpy y a Rasterio antes de dedicar el día de 
 
 [Notebook dia 3. Fiona](https://github.com/Digdgeo/AEPython_2024/blob/main/D%C3%ADa3/Dia_3_vectorial_fiona.ipynb)
 
-![](https://i.imgur.com/Xohn1H2.png)
+![](https://i.imgur.com/fOMDouZ.png)
