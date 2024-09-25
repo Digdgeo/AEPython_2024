@@ -57,7 +57,9 @@ Concluimos el notebook de ayer viendo algunas cosas que fallaron y pasamos a ver
 
 La idea es dedicar algo menos de la primera mitad del día a ver una breve introducción de Numpy y a trabajar algo más con rasterio, para pasar luego a aplicar lo visto hasta ahora en la creación (o modificación) de una clase para trabajar con imágenes Landsat.
 
-[Notebook dia 3. Fiona](https://github.com/Digdgeo/AEPython_2024/blob/main/D%C3%ADa3/Dia_3_vectorial_fiona.ipynb)
+[Notebook dia 3. Intro Numpy](https://github.com/Digdgeo/AEPython_2024/blob/main/D%C3%ADa%204/Intro_Numpy.ipynb)
+
+[Notebook dia 3. Intro Rasterio](https://github.com/Digdgeo/AEPython_2024/blob/main/D%C3%ADa%204/Intro_Rasterio%20.ipynb)
 
 ![](https://i.imgur.com/ZvGb8Cc.png)
 
