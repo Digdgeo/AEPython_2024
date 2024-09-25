@@ -47,10 +47,17 @@ También hemos visto como trabajar con shapefiles desde Geopandas (aspect=1 :())
 
 ## Día 3: Análisis Vectorial (Fiona) y scripts mlip.py y rmpip.py
 
-La idea es seguir con el análisis vectorial con Fiona y ver dos scripts más complejos: Uno para obtener las líneas máximas dentro de polígonos y otro para mover aleatoriamente grupos de puntos en un marco envolvente.
-
-Si hay tiempo veremos la intro a Numpy y a Rasterio antes de dedicar el día de mañana a las clases para trabajar con imágenes satélites.
+Concluimos el notebook de ayer viendo algunas cosas que fallaron y pasamos a ver vectorial con Fiona y ver dos scripts más complejos (mlip.py y rmpi.py): Uno para obtener las líneas máximas dentro de polígonos y otro para mover aleatoriamente grupos de puntos en un marco envolvente.
 
 [Notebook dia 3. Fiona](https://github.com/Digdgeo/AEPython_2024/blob/main/D%C3%ADa3/Dia_3_vectorial_fiona.ipynb)
 
 ![](https://i.imgur.com/fOMDouZ.png)
+
+## Día 4: Análisis raster: Intro to Numpy y Rasterio. Clase Landsat
+
+La idea es dedicar algo menos de la primera mitad del día a ver una breve introducción de Numpy y a trabajar algo más con rasterio, para pasar luego a aplicar lo visto hasta ahora en la creación (o modificación) de una clase para trabajar con imágenes Landsat.
+
+[Notebook dia 3. Fiona](https://github.com/Digdgeo/AEPython_2024/blob/main/D%C3%ADa3/Dia_3_vectorial_fiona.ipynb)
+
+![](https://i.imgur.com/ZvGb8Cc.png)
+
