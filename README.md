@@ -2,7 +2,7 @@
 
 Repositorio para el contenido del curso de **Análisis Espacial con Python** del Gabinete de Formación del CSIC (Estación Biológica de Doñana, Sevilla. 23-27/09/2024).
 
-![link a la presentación en *Slides*](https://slides.com/diegogarciadiaz/deck-9c545b)
+[link a la presentación del curso en *Slides*](https://slides.com/diegogarciadiaz/deck-9c545b)
 
 ### Temario
 
