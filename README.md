@@ -2,6 +2,10 @@
 
 Repositorio para el contenido del curso de **Análisis Espacial con Python** del Gabinete de Formación del CSIC (Estación Biológica de Doñana, Sevilla. 23-27/09/2024).
 
+<iframe src="https://slides.com/diegogarciadiaz/deck-9c545b/embed" width="576" height="420" title="AEPython" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+[link a la presentación en *Slides*](https://slides.com/diegogarciadiaz/deck-9c545b)
+
 ### Temario
 
 ## Día 1: Introducción al entorno Jupyter (Colab) y a Python
