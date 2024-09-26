@@ -71,3 +71,22 @@ La idea es dedicar la primera mitad del día a ver una breve introducción de Nu
 
 ![](https://i.imgur.com/ZvGb8Cc.png)
 
+
+## Día 5: Análisis raster: Repaso Rasterio. Clase Landsat y Geemap
+
+Pequeño repaso para ver algunos ejercicios que no nos dio tiempo a ver al final del jueves:
+
+* Joins
+    * Attributes
+    * Spatial
+    * Combine (concatenar)
+* Solución ejercicio pseudo-código
+* Poligonizar
+
+ Luego, deberíamos de ver la clase Landsat y terminaremos con Geemap.
+
+[Notebook dia 5. Repaso Geopandas Rasterio](https://github.com/Digdgeo/AEPython_2024/blob/main/D%C3%ADa%204/Intro_Numpy.ipynb)
+
+![](https://i.imgur.com/0rysdVv.png)
+
+[Notebook dia 4. Intro Rasterio](https://github.com/Digdgeo/AEPython_2024/blob/main/D%C3%ADa%204/Intro_Rasterio%20.ipynb)
