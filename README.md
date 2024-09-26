@@ -89,4 +89,4 @@ Pequeño repaso para ver algunos ejercicios que no nos dio tiempo a ver al final
 ![](https://i.imgur.com/0rysdVv.png)
 
 [Notebook dia 5. Geemap](https://github.com/Digdgeo/AEPython_2024/blob/main/D%C3%ADa%204/Intro_Rasterio%20.ipynb)
-![](https://camo.githubusercontent.com/ea46b91729a617aa876e248ddcce7027b0d3006bc130862c8bc77af690fe536b/68747470733a2f2f692e696d6775722e636f6d2f475679427778312e6a7067)
+![](https://i.imgur.com/Vwt3r1r.png)
